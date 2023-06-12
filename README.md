@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narendra-singh
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning Flutter development
 - 📫 https://www.linkedin.com/in/narendra-singh-4187ba206/
 
 <!---
